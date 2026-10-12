@@ -1,4 +1,4 @@
-I'm Leandre Jack, based in Georgetown, Guyana. I work on open problems posed by Paul Erdős, as collected at [erdosproblems.com](https://www.erdosproblems.com), mostly by computing values that had not been published before and sharing the programs so anyone can check them.
+I work on open problems posed by Paul Erdős, as collected at [erdosproblems.com](https://www.erdosproblems.com), mostly by computing values that had not been published before and sharing the programs so anyone can check them.
 
 ### Credited in the OEIS
 
